@@ -21,7 +21,7 @@ while True:
         check_moves_iterative()
     except Exception as e:
         print(e)
-    print("new try in 5s", end='')
+    print("new retry in 5s", end='')
     for i in range(6):
         time.sleep(1)
         print(f"\rnew retry in {5-i}s", end='')
