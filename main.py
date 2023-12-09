@@ -24,5 +24,5 @@ while True:
     print("new try in 5s", end='')
     for i in range(6):
         time.sleep(1)
-        print(f"\rnew try in {5-i}s", end='')
+        print(f"\rnew retry in {5-i}s", end='')
     
