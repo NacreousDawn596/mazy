@@ -7,7 +7,7 @@ it's a self-solving maze using DFS-like algorithm :3
 # how to install
 just:
 ```sh
-git clone https://github.com/NacreousDawn596/mazzy.git
+git clone https://github.com/NacreousDawn596/mazy.git
 cd mazy
 pip install requirements.txt
 ```
